@@ -1,0 +1,31 @@
+commit 8c337f531816795a126b5dbf4faf85371512b962
+Author: anthoro <huasipango@gmail.com>
+Date:   Wed Jan 3 13:42:05 2018 -0500
+
+    hotfix 1
+
+commit 5f484eb9fdc9743eb145c860e949c64a746d1cc8
+Author: anthoro <huasipango@gmail.com>
+Date:   Sat Dec 30 15:25:23 2017 -0500
+
+    agregando guitarra acustica
+
+commit 230f797e407d0881bf021d2821423d41c15184fd
+Author: anthoro <huasipango@gmail.com>
+Date:   Fri Dec 29 16:15:52 2017 -0500
+
+    agregando nuevo hero
+    
+    DSD
+
+commit 196c0d88a825ba99ab5c7e5622d46db702c4eb2f
+Author: anthoro <huasipango@gmail.com>
+Date:   Fri Dec 29 00:57:04 2017 -0500
+
+    agregando el header
+
+commit ae059e8ac507dffe693af7233505258c3aa3337c
+Author: anthoro <huasipango@gmail.com>
+Date:   Wed Dec 27 23:21:20 2017 -0500
+
+    inicializar nuestro landing
